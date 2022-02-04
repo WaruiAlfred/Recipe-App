@@ -13,8 +13,6 @@ import { MODAL_CLOSE_SEC } from './config.js';
 
 // https://forkify-api.herokuapp.com/v2
 
-///////////////////////////////////////
-
 //Maintain page state on reload
 // if (module.hot) {
 //   module.hot.accept();
